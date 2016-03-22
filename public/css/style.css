@@ -1,0 +1,14 @@
+#myCarousel{
+	margin-top: 20%;
+}
+.carousel-inner{
+	width: 75%;
+	margin: 0 auto;
+	
+}
+.carousel-inner .item{
+	padding: 30px 0;
+	font-family: 'Playfair Display', serif;
+	font-style: italic;
+    font-size: 1.5em;
+}

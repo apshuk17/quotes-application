@@ -1,0 +1,14 @@
+{
+  "name": "quotes-application",
+  "version": "1.0.0",
+  "description": "Displays a quote slider",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Apoorva Shukla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
